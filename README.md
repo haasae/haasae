@@ -1,7 +1,7 @@
 # Hi, I'm Håkon!
 
 ## 👨‍💻 About Me:
-🔐 Master's student specializing in Cybersecurity at NTNU<br>🤖 Interested in Machine Learning & AI applications<br>🧠 Strong interest in systems, networking & security architecture
+🔐 Master's student in Cybersecurity and Data communication at NTNU<br>🤖 Interested in Machine Learning & AI applications<br>🧠 Strong interest in systems, networking & security architecture
 
 
 ## 💻 Tech Stack:
