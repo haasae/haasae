@@ -10,5 +10,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/håkon-sæther-837346389
+- LinkedIn: www.linkedin.com/in/haakon-saether-837346389
 - Email: hakonsae@gmail.com
