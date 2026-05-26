@@ -1,21 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     width="985px"
+     height="455px"
+     viewBox="0 0 985 455"
+     font-size="16px">
+
 <style>
 @font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-text, tspan {white-space: pre;}
+
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.cc { fill: #616e7f; }
+text, tspan { white-space: pre; }
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+
+<rect width="985px" height="455px" fill="#161b22" rx="15"/>
+
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">            ▒▓▓██▒░  ██              </tspan>
 <tspan x="15" y="50">          ▒░▒▒▒       ▒███           </tspan>
@@ -38,21 +45,28 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="390"> ▒    ░        ░░░░▒░░  ░░░ ░░▒ █▒▒░░</tspan>
 <tspan x="15" y="410">  ░  ░     ░░░▒  ░░ ░            ░░█░</tspan>
 </text>
+
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30">håkon@sæther</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">23 years, 2 months, 16 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Norwegian University of Science and Technology (NTNU)</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Cybersecurity &amp; Data Communication</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Java, Python, JavaScript, C++, SQL</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Spanish, Spanish</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Security</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Cloud/IaC security, networking, automation, CTF</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, Arduino, sensors, wireless communication</tspan>
-<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">hakonsae@gmail.com</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Håkon Sæther</tspan>
+<tspan x="390" y="30">håkon@sæther</tspan> <tspan class="cc">——————————————————————————————————————</tspan>
+
+<tspan x="390" y="60" class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Windows, Linux</tspan>
+<tspan x="390" y="80" class="key">Uptime</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">23 years, 2 months, 16 days</tspan>
+<tspan x="390" y="100" class="key">Host</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">NTNU</tspan>
+<tspan x="390" y="120" class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Cybersecurity &amp; Data Communication</tspan>
+<tspan x="390" y="140" class="key">Focus</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Security, networking, ML, cloud</tspan>
+
+<tspan x="390" y="175">- Stack</tspan> <tspan class="cc">———————————————————————————————————————</tspan>
+<tspan x="390" y="205" class="key">Programming</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Java, Python, JavaScript, C++, SQL</tspan>
+<tspan x="390" y="225" class="key">Computer</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">HTML, CSS, JSON, LaTeX</tspan>
+<tspan x="390" y="245" class="key">Tools</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Git, Docker, AWS, Terraform/OpenTofu</tspan>
+<tspan x="390" y="265" class="key">Languages</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Norwegian, English, Spanish</tspan>
+
+<tspan x="390" y="300">- Interests</tspan> <tspan class="cc">——————————————————————————————————</tspan>
+<tspan x="390" y="330" class="key">Security</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Cloud/IaC, web security, crypto, CTF</tspan>
+<tspan x="390" y="350" class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Raspberry Pi, Arduino, sensors</tspan>
+
+<tspan x="390" y="385">- Contact</tspan> <tspan class="cc">———————————————————————————————————</tspan>
+<tspan x="390" y="415" class="key">Email</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">hakonsae@gmail.com</tspan>
+<tspan x="390" y="435" class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Håkon Sæther</tspan>
 </text>
 </svg>
